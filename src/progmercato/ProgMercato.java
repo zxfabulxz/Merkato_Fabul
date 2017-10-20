@@ -1,11 +1,16 @@
 package progmercato;
 import java.io.*;
 
+/*
+
+    @author Marco
+
+*/
 public class ProgMercato 
 {
     public static void main(String args[]) 
     {   
-        String nome = null;
+        String nome=null;
         float prezzo=0;
         float quantita=0;
         
